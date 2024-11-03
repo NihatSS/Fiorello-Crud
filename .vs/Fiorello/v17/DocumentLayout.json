@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\fiorello\\fiorello\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\fiorello\\fiorello\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\fiorello\\fiorello\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\fiorello\\fiorello\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\fiorello\\fiorello\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3DF44356-554B-4FB0-8C06-E777D1B6CB8C}|Fiorello\\Fiorello.csproj|solutionrelative:fiorello\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALYAAAAAAAAAAAAvwMcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T14:15:42.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T14:12:58.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T13:49:16.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAowHwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:26:21.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Fiorello\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Fiorello\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswLAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:52:29.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\admin.js",
+      "PackagePath": "staticwebassets\\admin\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\000fd1b1-d632-4536-a3de-963fe618c713_Screenshot (49).png",
+      "PackagePath": "staticwebassets\\assets\\img\\000fd1b1-d632-4536-a3de-963fe618c713_Screenshot (49).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\3acb240d-0252-466e-88a7-f0266ac83470_Screenshot 2024-10-05 221036.png",
+      "PackagePath": "staticwebassets\\assets\\img\\3acb240d-0252-466e-88a7-f0266ac83470_Screenshot 2024-10-05 221036.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\46e5903e-2997-4bbf-8371-53ddb742f480_Screenshot (47).png",
+      "PackagePath": "staticwebassets\\assets\\img\\46e5903e-2997-4bbf-8371-53ddb742f480_Screenshot (47).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\71709791-c7fc-4b5f-95af-55289af59140_Screenshot 2024-10-17 115257.png",
+      "PackagePath": "staticwebassets\\assets\\img\\71709791-c7fc-4b5f-95af-55289af59140_Screenshot 2024-10-17 115257.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\a4ba17a1-7fc3-4c2c-8d30-727e3eb59792_Screenshot 2024-10-06 151428.png",
+      "PackagePath": "staticwebassets\\assets\\img\\a4ba17a1-7fc3-4c2c-8d30-727e3eb59792_Screenshot 2024-10-06 151428.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\bac253e4-b0be-451e-9548-fce2aa89086d_Screenshot (48).png",
+      "PackagePath": "staticwebassets\\assets\\img\\bac253e4-b0be-451e-9548-fce2aa89086d_Screenshot (48).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\bf223226-d488-4e83-b656-0bc40e95ec35_Screenshot (41).png",
+      "PackagePath": "staticwebassets\\assets\\img\\bf223226-d488-4e83-b656-0bc40e95ec35_Screenshot (41).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\blog-feature-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-feature-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\blog-feature-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\ebc67d49-a74a-488c-a49f-3ea51cba146b_Screenshot (49).png",
+      "PackagePath": "staticwebassets\\assets\\img\\ebc67d49-a74a-488c-a49f-3ea51cba146b_Screenshot (49).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\footer-bottom-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-bottom-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h1-custom-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\h1-custom-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h2-sign-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\h2-sign-img.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h3-background-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\h3-background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h3-slider-background-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\h3-slider-background-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h3-slider-background.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\h3-slider-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h3-team-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\h3-team-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h3-team-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\h3-team-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h3-team-img-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\h3-team-img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h3-team-img-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\h3-team-img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\h3-video-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\h3-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\instagram1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\instagram2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\instagram3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\instagram4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\instagram5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\instagram6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\instagram7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\instagram8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-10-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-10-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-11-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-11-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-12-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-12-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-13-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-13-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-14-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-14-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-7-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-7-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-8-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-8-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-9-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-9-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-category-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-category-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-category-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-category-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-category-img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\shop-category-img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-category-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\testimonial-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\img\\testimonial-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\owlcarousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\owlcarousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\owlcarousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\lib\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lib\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\lib\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lib\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\lib\\_varibales.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\lib\\_varibales.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_experts.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_experts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_instagram.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_instagram.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_product-list.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_product-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_product.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_say.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_say.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_shop-list.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_shop-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_subscribe.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\sections\\_tab.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\sections\\_tab.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Fiorello\\Fiorello\\wwwroot\\assets\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Fiorello.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Fiorello.props",
+      "PackagePath": "build\\Fiorello.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Fiorello.props",
+      "PackagePath": "buildMultiTargeting\\Fiorello.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Fiorello.props",
+      "PackagePath": "buildTransitive\\Fiorello.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

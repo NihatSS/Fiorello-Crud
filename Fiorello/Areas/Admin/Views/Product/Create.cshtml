@@ -1,0 +1,32 @@
+﻿@model ProductCreateVM
+
+<div class="container mt-5">
+    <h2 class="text-center">Create work</h2>
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <input type="text" asp-for="@Model.Product.Name" class="form-control mt-5" value="" placeholder="Enter the product's name...">
+        <span class="text-danger d-block" asp-validation-for="@Model.Product.Name"></span>
+
+        <input type="text" asp-for="@Model.Product.Description" class="form-control mt-3" value="" placeholder="Enter the prodcut's description...">
+        <span class="text-danger d-block" asp-validation-for="@Model.Product.Description"></span>
+
+        <input type="number" asp-for="@Model.Product.Price" class="form-control mt-3" value="" placeholder="Enter the product's price...">
+        <span class="text-danger d-block" asp-validation-for="@Model.Product.Price"></span>
+
+        <span>Category:</span>
+        <select class="form-select mt-3" asp-for="@Model.Product.CategoryId" aria-label="Select Category">
+            @foreach (var item in Model.Categories)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+        <br /><br />
+        <span>Choose Image:</span>
+        <input type="file" multiple asp-for="@Model.Product.UploadedImages" class="form-control mt-3" />
+
+        <div class="mt-2">
+            <button type="submit" class="btn btn-success">Create</button>
+            <a asp-controller="Work" asp-action="Index" class="btn btn-primary mx-2">Back</a>
+
+        </div>
+    </form>
+</div>

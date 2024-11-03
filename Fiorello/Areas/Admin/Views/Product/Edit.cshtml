@@ -1,0 +1,34 @@
+﻿@model ProductEditVM
+
+<div class="container mt-5">
+    <h3 class="text-center">Edit Product Details</h3>
+    <form asp-action="Edit" asp-route-id="@Model.Product.Id" method="post" enctype="multipart/form-data">
+        <input type="text" asp-for="@Model.Product.Name" class="form-control mt-5" value="@Model.Product.Name" placeholder="Enter product name...">
+        <span class="text-danger d-block" asp-validation-for="@Model.Product.Name"></span>
+
+        <input type="text" class="form-control mt-3" asp-for="@Model.Product.Description" value="@Model.Product.Description" placeholder="Enter product description...">
+        <span class="text-danger d-block" asp-validation-for="@Model.Product.Description"></span>
+
+        <span>Select Category:</span>
+        <select class="form-select mt-3" asp-for="@Model.Product.CategoryId" aria-label="Select Category">
+            <option selected disabled>Choose category</option>
+            @foreach (var item in Model.Categories)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+        <br />
+        @foreach (var item in Model.Product.Images)
+        {
+            <img src="~/assets/img/@item.Image" style="@(item.IsMain ? "border: 5px solid green" : "");margin-top:20px; width:200px; height:200px" />
+        }
+        <br /><br />
+        <span>Choose Image:</span>
+        <input type="file" multiple class="form-control mt-3" asp-for="@Model.Product.UploadedImages" />
+
+        <div class="mt-2">
+            <button type="submit" class="btn btn-success">Create</button>
+            <a asp-controller="Product" asp-action="Index" class="btn btn-primary">Back</a>
+        </div>
+    </form>
+</div>

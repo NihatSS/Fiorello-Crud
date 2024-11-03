@@ -1,0 +1,8 @@
+﻿@model Slider
+<div class="container mt-3">
+    <h1 class="text-center mt-2">Slider</h1>
+    <h3 class="mt-3">Title: @Model.Title</h3>
+    <h4 class="mt-3">Description: @Model.Desc</h4>
+    <h3 cite="mt-3">Sign: <img src="~/assets/img/@Model.Sign" alt="Alternate Text" /></h3>
+    <a asp-action="Index" class="btn btn-primary mt-5">Back</a>
+</div>
